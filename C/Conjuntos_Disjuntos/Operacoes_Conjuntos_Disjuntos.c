@@ -80,4 +80,6 @@ http://marathoncode.blogspot.com.br/2013/01/conjuntos-disjuntos.html
 http://www.ime.usp.br/~coelho/algoritmos/aulas/material/aula22.pdf
 http://professor.ufabc.edu.br/~leticia.bueno/classes/aed2/materiais/unionfind.pdf
 http://www.fernandolobo.info/aed-II/teoricas/a23.print.pdf
+https://en.wikipedia.org/wiki/Disjoint-set_data_structure
+https://en.wikipedia.org/wiki/Ackermann_function
 */
